@@ -36,5 +36,5 @@ The dataset includes:
 
 ---
 
-🔍 **This project showcases the power of distributed computing in large-scale crime data analysis, integrating geospatial processing and performance evaluation techniques.**
+
 
